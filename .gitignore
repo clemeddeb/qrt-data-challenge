@@ -1,0 +1,19 @@
+# QRT challenge datasets
+X_train_*.csv
+X_test_*.csv
+y_train_*.csv
+
+# Generated submissions
+submissions/
+sample_submission_*.csv
+
+# CatBoost generated files
+catboost_info/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
