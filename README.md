@@ -47,7 +47,7 @@ Validation results and the public leaderboard result are reported separately in 
 
 The complete workflow, experiments and results can be found in:
 
-[qrt_data_challenge_final.ipynb](qrt_data_challenge_final.ipynb)
+[qrt_data_challenge.ipynb](qrt_data_challenge.ipynb)
 
 The notebook is organized chronologically so that the reasoning behind each modeling decision can be followed from the initial benchmark to the final submission.
 
